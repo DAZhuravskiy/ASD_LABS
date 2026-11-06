@@ -1,3 +1,4 @@
+#Шелла
 def shell_sort(a):
     n = len(a)
     gap = n // 2
