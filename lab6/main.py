@@ -1,3 +1,4 @@
+#Выбором
 def selection_sort(a):
     n = len(a)
     for i in range(n - 1):
