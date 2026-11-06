@@ -1,3 +1,4 @@
+#Пирамидальная
 def heapify(a, n, i):
     largest = i
     left = 2 * i + 1
